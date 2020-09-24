@@ -1,7 +1,3 @@
-# Read_me
-
-READ.ME Cheat sheet
-
 # Heading 1
 
 ## Heading 2
